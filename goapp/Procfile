@@ -1,2 +1,0 @@
-worker: bin/worker -queues="default" -namespace=""
-api: bin/http
